@@ -39,7 +39,7 @@ This platform ensures a **safe, verified, and campus-only environment** where st
 ## 🌐 Live Website
 
 🔗 Visit here:  
-👉 **[Checkout the website]](https://cuk-commit.vercel.app/)**
+👉 **[[Checkout the website]](https://cuk-commit.vercel.app/)**
 
 ---
 ---
