@@ -3,7 +3,8 @@ import { Button } from "@/components/ui/button";
 import { Download, Heart, MessageCircle, Sparkles } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 
-const apkUrl = new URL("../assets/cukCommit.apk", import.meta.url).href;
+const apkUrl =
+  "https://github.com/CUK-COMMIT/app.cukcommit/releases/download/v1.0.0/cuk-commit_v1.0.0.apk";
 
 const AppPreviewSection = () => {
   const containerRef = useRef<HTMLDivElement | null>(null);
